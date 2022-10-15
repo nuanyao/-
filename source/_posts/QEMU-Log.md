@@ -5,7 +5,7 @@ tags:
 	- QEMU
 categories: 技术教程
 ---
-
+QEMU记录
 <!--more-->
 # 新建空白镜像
 ```
